@@ -226,4 +226,7 @@ Successfully removed: 'Buy groceries'
 
 Enter your choice (1-4): 4
 
+Goodbye! Have a productive day!
+
+
 
