@@ -1,4 +1,4 @@
-import time
+#Console based to do list program
 
 def show_menu():
     """Prints the main menu options to the console."""
@@ -95,4 +95,5 @@ def main():
 
 #To run the program
 main()
+
 
